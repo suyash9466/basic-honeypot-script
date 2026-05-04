@@ -19,11 +19,19 @@ A Python-based honeypot tool to detect and block suspicious admin login attempts
 
 project/
 ├── honeypot.py # Main script
+
 ├── requirements.txt # Required Python packages
+
 ├── README.md # This file
+
 ├── /geoip/
+
 │ └── GeoLite2-City.mmdb # GeoIP2 database (downloaded separately)
+
 └── /logs/
+
 ├── /admin/
+
 │ └── alerts.log # Alert logs
+
 └── admin_attacks.db # SQLite DB (auto-created)
