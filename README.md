@@ -1,6 +1,6 @@
 ---
 
-# Admin Honeypot Logger & Blocker
+# Honeypot Logger & Blocker
 
 ## Overview
 
